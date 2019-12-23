@@ -1,1 +1,1 @@
-Will sort array in Quicksort.txt. Will also output total number of primitive operations (comparisons) made during execution of algorithm to help understand running time complexity.
+Java program sort's array in Quicksort.txt. It also outputs the total number of primitive operations (comparisons) made during the execution of the algorithm (to help understand running time complexity).
