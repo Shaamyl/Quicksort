@@ -22,7 +22,7 @@ public class Quicksort {
 			//qO.partition(testArr, 3, 0, 6);
 			//System.out.println(Arrays.toString(testArr));
 			System.out.println("Array sorted!");
-			System.out.println("Total number of comparisions made during QuickSort: " + qO.quickSort(mainArr, 0, mainArr.length-1));
+			System.out.println("Number of comparisions made during QuickSort: " + qO.quickSort(mainArr, 0, mainArr.length-1));
 			
 			
 		} catch (FileNotFoundException e) {
