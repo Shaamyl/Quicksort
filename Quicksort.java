@@ -9,7 +9,7 @@ public class Quicksort {
 	
 	public static void main(String[] args) {
 		try {
-			Scanner in = new Scanner(new File("F:\\Algorithms Tim Roughgarden\\QuickSort.txt"));
+			Scanner in = new Scanner(new File("QuickSort.txt"));
 			
 			int c = 0;
 			while(in.hasNext()) {
